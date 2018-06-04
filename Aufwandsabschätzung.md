@@ -7,4 +7,4 @@
 - Testen und verbessern (8 - 16h)
 - Um Komplikationen zu vermeiden sollte man immer das 1,5 fache der Zeit einplanen
 
-39 - 68h (*1.5 = 58,5 - 102 h)
+Total : 39 - 68h (*1.5 = 58,5 - 102 h)
